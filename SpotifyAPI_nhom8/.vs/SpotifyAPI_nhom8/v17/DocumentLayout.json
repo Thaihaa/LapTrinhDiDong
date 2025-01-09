@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebAPI\\SpotifyAPI_nhom8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\controllers\\albumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\migrations\\spotifydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\migrations\\spotifydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\repositories\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\repositories\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\repositories\\isingerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\repositories\\isingerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\controllers\\singerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\controllers\\singerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\repositories\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\repositories\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|d:\\webapi\\spotifyapi_nhom8\\spotifyapi_nhom8\\models\\forgotpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A45368-19AE-4FE4-A666-20B6BCEFCAF1}|SpotifyAPI_nhom8\\SpotifyAPI_nhom8.csproj|solutionrelative:spotifyapi_nhom8\\models\\forgotpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1818862802:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotPasswordModel.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Models\\ForgotPasswordModel.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Models\\ForgotPasswordModel.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Models\\ForgotPasswordModel.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Models\\ForgotPasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:44:02.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Controllers\\SongsController.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Controllers\\SongsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T19:36:11.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SongRepository.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Repositories\\SongRepository.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Repositories\\SongRepository.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Repositories\\SongRepository.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Repositories\\SongRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:41:54.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpotifyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Migrations\\SpotifyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Migrations\\SpotifyDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Migrations\\SpotifyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Migrations\\SpotifyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:42:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwEsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:00:11.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SingersController.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Controllers\\SingersController.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Controllers\\SingersController.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Controllers\\SingersController.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Controllers\\SingersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:41:19.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Models\\Song.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Models\\Song.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:41:28.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISongRepository.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Repositories\\ISongRepository.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Repositories\\ISongRepository.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Repositories\\ISongRepository.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Repositories\\ISongRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:41:33.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlbumsController.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Controllers\\AlbumsController.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Controllers\\AlbumsController.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Controllers\\AlbumsController.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Controllers\\AlbumsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T19:36:01.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPasswordModel.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Models\\ResetPasswordModel.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Models\\ResetPasswordModel.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Models\\ResetPasswordModel.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Models\\ResetPasswordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:44:24.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Program.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Program.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Program.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:48:19.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\appsettings.json",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\appsettings.json",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\appsettings.json",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T19:46:01.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAlbumRepository.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Repositories\\IAlbumRepository.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Repositories\\IAlbumRepository.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Repositories\\IAlbumRepository.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Repositories\\IAlbumRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:13:47.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISingerRepository.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Repositories\\ISingerRepository.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Repositories\\ISingerRepository.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Repositories\\ISingerRepository.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Repositories\\ISingerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:41:42.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Services\\IAuthService.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:46:39.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI_nhom8\\Services\\AuthService.cs",
+              "ToolTip": "D:\\WebAPI\\SpotifyAPI_nhom8\\SpotifyAPI_nhom8\\Services\\AuthService.cs",
+              "RelativeToolTip": "SpotifyAPI_nhom8\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:47:13.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
